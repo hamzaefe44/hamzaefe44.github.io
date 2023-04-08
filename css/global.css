@@ -1,0 +1,83 @@
+/* text size */
+.text_center{
+    text-align: center;
+}
+
+.heading_small{
+    font-size: 1.25rem;
+}
+
+.heading_medium{
+    font-size: 1.50rem;
+}
+
+.heading_big{
+    font-size: 1.75rem;
+}
+/* text color */
+.bg-dark-blue{
+    background : #062e51;
+
+}
+
+.bg-light-blue{
+    background: #336ea2;
+}
+/* Buttons */
+.btn{
+    margin-top: 1.25rem;
+    padding: 0.8rem 3rem;
+    border-radius: 10px;
+    letter-spacing: 1px;
+}
+.btn-primary{
+    background: #336ea2;
+}
+.btn-primary:hover{
+    color: #336ea2;
+    background: #fff;
+    border: 0.5px solid #336ea2;
+}
+
+.btn-dark{
+    background: #000;
+    color: #fff;
+}
+.btn-dark:hover{
+    color: #000;
+    background: #fff;
+    color: #000;
+    border: 0.5px solid #000;
+}
+
+.btn-block{
+    width: 100%;
+    text-align: center;
+}
+
+/* container */
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* Forms */
+
+.form-group{
+    padding: 0.25rem 0;
+}
+
+.form-control {
+    width: 100%;
+    padding: 0.4rem;
+    font-size: 1rem;
+    border-radius: 7px;
+    resize: none;
+}
+
+.form-group label{
+    display: block;
+}
+
+
+

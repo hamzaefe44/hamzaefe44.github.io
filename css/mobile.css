@@ -1,0 +1,13 @@
+#navbar{
+    flex-direction: column;
+    overflow: hidden;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    height: 95px;
+}
+
+.projects .project{
+    display: flex;
+    flex-direction: column;
+    
+}
